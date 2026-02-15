@@ -48,7 +48,7 @@ After aggregating total sales by outlet format:
   <img src="Blinkit%20Dashboard%202.png" width="1100" height="500"/>
 </p> 
 
-### 🌍 LOCATION TIER PERFORMANCE (STATE/CITY LEVEL IMPACT)
+### 🌍 Location Tier Performance (State/City Level Impact)
 
 #### Sales distribution across Tier locations:
 
