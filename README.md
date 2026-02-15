@@ -43,6 +43,11 @@ After aggregating total sales by outlet format:
 ### 📊 Dashboard Insight:
 → Even if Grocery Stores are higher in count, revenue efficiency is significantly lower compared to Supermarket Type1.
 
+
+<p align="center">
+  <img src="Blinkit%20Dashboard%202.png" width="1100" height="500"/>
+</p> 
+
 ### 🌍 LOCATION TIER PERFORMANCE (STATE/CITY LEVEL IMPACT)
 
 #### Sales distribution across Tier locations:
