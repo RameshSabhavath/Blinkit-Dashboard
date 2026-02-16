@@ -28,6 +28,11 @@ Data was grouped and aggregated using category-wise segmentation to calculate pe
 ◆ Category Segmentation        
 ◆ Trend & Comparative Analysis
 
+### DASHBOARD
+<p align="center">
+  <img src="Blinkit%20Dashboard%202.png" width="1100" height="500"/>
+</p> 
+
 ### 🏬 Outlet Type Performance Analysis
 
 After aggregating total sales by outlet format:
@@ -42,11 +47,6 @@ After aggregating total sales by outlet format:
 
 ### 📊 Dashboard Insight:
 → Even if Grocery Stores are higher in count, revenue efficiency is significantly lower compared to Supermarket Type1.
-
-
-<p align="center">
-  <img src="Blinkit%20Dashboard%202.png" width="1100" height="500"/>
-</p> 
 
 ### 🌍 Location Tier Performance (State/City Level Impact)
 
@@ -131,7 +131,7 @@ This reflects growing health-conscious consumer behavior.
 → It provides a scalable analytical framework for retail performance monitoring and expansion planning.
 
 
-
+_______________________ Developed by RAMESH SABHAVATH 👨🏼‍💻
 
 
 
